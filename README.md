@@ -1,2 +1,2 @@
 # first-project
-Programa que calcula o custo por quilômetro (km)
+Programa que calcula o custo (R$) por quilômetro (km)
